@@ -1,0 +1,1 @@
+SHA256(3.1_3_alterbit.txt)= 9086d3ab996a83a0ee5de080c6d9efcebd7e398a508e8bd07a3c8eeb3b816994
